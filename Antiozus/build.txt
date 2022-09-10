@@ -1,0 +1,3 @@
+displayName = antiozus
+author = Pedroxblo
+version = 0.2
